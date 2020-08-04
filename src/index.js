@@ -6,4 +6,3 @@ ReactDOM.hydrate(
   <App />,
   document.getElementById('root')
 );
-
